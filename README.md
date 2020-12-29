@@ -3,7 +3,7 @@
 
 this is an app from FreeCodeCamp, which includes these topics:
 
-![thumbnail of the video](URL "https://img.youtube.com/vi/y51Cv4wnsPw/sddefault.jpg")
+<img src="https://img.youtube.com/vi/y51Cv4wnsPw/sddefault.jpg" >
 <br />
 Link of reference video : https://www.youtube.com/watch?v=y51Cv4wnsPw
 
