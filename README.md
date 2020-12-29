@@ -1,5 +1,4 @@
 # To_Do_List
-##a simple to_do list
 
 this is an app from FreeCodeCamp, which includes these topics:
 
