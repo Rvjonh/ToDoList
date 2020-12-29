@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dist\css\index.css">
+    <script src="/js/main.js" type="module"></script>
+    <link rel="shortcut icon" href="/assets/logo.png" type="image/x-icon">
+    <title>To do App - FreeCodeCamp tutorial</title>
+</head>
+<body>
+    <main>
+        <section class="newItemEntry">
+            <form id="ItemEntryForm" class="ItemEntryForm">
+                <label for="newItem">Enter a new item to the list</label>
+                <input id="newItem" placeholder="Add Item" size="40" autocomplete="off" type="text" tabindex="0">
+                <button id="addItem" class="button" title="add new item" aria-label="add item to the list" tabindex="0">+</button>
+            </form>
+        </section>
+        <section class="listContainer">
+            <div class="listTitle">
+                <h2>To Do List</h2>
+                <button id="clearItems" class="button" title="clear the list" aria-label="remove all the items from the list" tabindex="0">Clear</button>
+            </div>
+            <hr />
+            <div id="listItems" class="listItems">
+                <div class="item">
+                    <input id="1" type="checkbox" tabindex="0"/>
+                    <label for="1">Eat</label>
+                </div>
+                <div class="item">
+                    <input id="2" type="checkbox" tabindex="0"/>
+                    <label for="2">Sleep</label>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
