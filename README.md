@@ -1,10 +1,20 @@
-# To_Do_List
+# To-Do List app
 
-this is an app from FreeCodeCamp, which includes these topics:
+## Live App
+
+YOU CAN USE IT IN THIS LINK: [Live App Link](https://rvjonh-todo-list.netlify.app/)
+
+## Application
+
+This is an app from FreeCodeCamp tutorial, which includes these topics:
 
 <img src="https://img.youtube.com/vi/y51Cv4wnsPw/sddefault.jpg" >
 <br />
 Link of reference video : https://www.youtube.com/watch?v=y51Cv4wnsPw
+
+## Development
+
+Required technologies:
 
 1. HTML
 2. CSS
@@ -12,5 +22,3 @@ Link of reference video : https://www.youtube.com/watch?v=y51Cv4wnsPw
 4. USE OF LOCALSTORAGE(JAVASCRIP API)
 5. RESPONSIVE DESIGN(MOVIL FIRST)
 6. ACCESSIBILITY
-
-YOU CAN USE IT IN THIS LINK: https://cocky-northcutt-b5b857.netlify.app/
